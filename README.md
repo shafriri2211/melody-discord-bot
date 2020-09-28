@@ -8,3 +8,5 @@ https://github.com/triethyl/melody-discord-bot/wiki
 
 Also here are reasons why this might be the bot for you!
 https://github.com/triethyl/melody-discord-bot/wiki/Why-better-than-Rythm%3F
+
+[![Run on Repl.it](https://repl.it/badge/github/shafriri2211/melody-discord-bot)](https://repl.it/github/shafriri2211/melody-discord-bot)
